@@ -19,14 +19,6 @@ subject: 'Resume'
 ### BUILDING SCALABLE & RELIABLE ML SYSTEMS
 I work at the intersection of **ML Engineering, Data Engineering, and DevOps**, designing **scalable, production-ready ML platforms**. I focus on **clean architecture, fast iteration cycles, and long-term maintainability**, bringing **ML models and data pipelines from prototypes to production** while optimizing infrastructure for performance.
 
-## TOOLS & TECHNOLOGIES
-
-- **Programming**: Python, SQL, Bash
-- **Data Engineering**: Airflow, Snowflake, DBT
-- **ML Engineering & MLOps**: Docker, Kubernetes, CI/CD, AzureML
-- **Cloud & Infrastructure**: Azure, AWS, Redis, PostgreSQL
-- **Web & API Development**: Django
-
 ## EXPERIENCE
 ### Data & ML Platform Engineer
 Apr 2021 - Present, Zürich, Switzerland (On-site)
@@ -68,9 +60,6 @@ Jun 2016 - Sep 2019, Geneva, Switzerland (On-site)
 **Master’s Degree in Computer Science** ETH Zürich (2018 - 2021)
 
 **Bachelor’s Degree in Computer Science** EPFL, Lausanne (2015 - 2018)
-
-## KEY SKILLS
-✔ Scalable ML Pipelines | ✔ ML Model Deployment & Monitoring | ✔ Data Engineering & ETL Optimization | ✔ Cloud Infrastructure & DevOps | ✔ CI/CD for ML | ✔ SQL & Performance Optimization
 
 ## INTERESTS & LANGUAGES
 - Languages: English: native · French: native · German: B2
