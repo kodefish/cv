@@ -2,76 +2,76 @@
 margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
-margin-bottom: 2cm
-title: Your Resume in Markdown
+margin-bottom: 1cm
+title: Danil Ivanov
 description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
 keywords:
-  - 'php'
-  - 'mysql'
-  - 'linux'
+  - 'data engineer'
+  - 'ml engineer'
+  - 'devops engineer'
 author:
-- I am the author
-subject: 'Subject'
+- Danil Ivanov
+subject: 'Resume'
 ---
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
+###### [danilivanov.ivanov@gmail.com](mailto:danilivanov.ivanov@gmail.com) • [+41 79 282 37 98](tel:+41792823798) • Zürich, Switzerland • C Permit • [Github: kodefish](https://github.com/kodefish)
 
-### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way
 
-## Skills
+### BUILDING SCALABLE & RELIABLE ML SYSTEMS
+I work at the intersection of **ML Engineering, Data Engineering, and DevOps**, designing **scalable, production-ready ML platforms**. I focus on **clean architecture, fast iteration cycles, and long-term maintainability**, bringing **ML models and data pipelines from prototypes to production** while optimizing infrastructure for performance.
 
-```programming```
-```devops```
-```databases```
-```containers```
-```linux systems administration```
-```webservers```
-```project management```
-```system architecture & design```
-```entrepreneurship```
-```load/stress testing```
-```WordPress```
+## TOOLS & TECHNOLOGIES
 
-**Programming**: Lua, Haskell, Erlang, Go, Javascript
-**Databases**: MySQL, Postgres, sqlite, SQL Server, Oracle, Pick
-**Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian
-**DevOps**: Ansible, Chef, Kubernetes, etc.
+- **Programming**: Python, SQL, Bash
+- **Data Engineering**: Airflow, Snowflake, DBT
+- **ML Engineering & MLOps**: Docker, Kubernetes, CI/CD, AzureML
+- **Cloud & Infrastructure**: Azure, AWS, Redis, PostgreSQL
+- **Web & API Development**: Django
 
-## Experience
+## EXPERIENCE
+### Data & ML Platform Engineer
+Apr 2021 - Present, Zürich, Switzerland (On-site)
 
-### CEO and Founder, Pied Piper
+- Migrated legacy data pipelines to a **modern cloud-based system**, optimizing **ML/data processing for 6M+ records/day** and reducing KPI computation time by **80%**.
+- Deployed ML models as dependencies in a **Django-based SaaS**, serving inference requests over HTTP on Kubernetes.
+- Implemented **MLOps best practices** for **model versioning, monitoring, and scheduled retraining** via **Airflow**.
+- Developed **Kubernetes-native applications** for **batch data processing**, enabling **scalability & auto-healing**.
+- Designed & improved a **linear optimization-based inventory allocation system**, adapting it to **evolving business needs**.
+- **Collaborate closely** with **data scientists, backend engineers, and data engineers** to ensure seamless **ML model deployment & data pipeline efficiency**.
+- **Take on product owner responsibilities**, defining priorities & aligning technical work with business needs.
 
-start-date-end-date, City, State and remote
+**Technologies used**: Python, Airflow, Snowflake, Kubernetes, SQL, Docker, DBT, Azure, MLflow, Linear Programming, pandas, numpy, CI/CD.
 
-- Things you did/do here
-- More things that you do here.
+### Virtual Reality Software Engineer
+Sep 2020 - Dec 2020, Zürich, Switzerland (On-site)
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+- Built a **real-time VR simulation** to analyze how speech patterns change in different environments.
+- Developed virtual environments (e.g., lecture hall, baby room) and a **control interface** for researchers to select phrases and display them within the simulation.
 
-### Senior Software Architect, Hooli
+**Technologies used**: Python, Unity, VR APIs.
 
-2010-2016, San Francisco, CA
+### Student Teaching Assistant
+Sep 2018 - Dec 2020, Zürich, Switzerland (On-site)
 
-- This is the job you had before your latest job
-- Did you do anything that wasn't part of your job description, but you excelled at?
+- Assisted in teaching **Visual Computing**, mentoring students & grading assignments. Topics included **computer graphics** and an introduction to **computer vision**.
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+**Technologies used**: Python, OpenGL, NumPy, WebGL.
 
-## Awards & Recognition
+### Android Developer
+Jun 2016 - Sep 2019, Geneva, Switzerland (On-site)
 
-- Winner TechCrunch Disrupt 2001
-- People Magazine's sexiest man alive at 123 My Address, MyCity, TX
+- Developed a **nightlife discovery app** that allowed users to find events, follow artists, and book tables.
+- Implemented the **Android application end-to-end**, integrating real-time event notifications and ticketing features.
 
-## Projects
+**Technologies used**: Java, Android SDK, Firebase, REST API
 
-**[*Personal Blog*](http://luther.io)** (2021-present)
+## EDUCATION
+**Master’s Degree in Computer Science** ETH Zürich (2018 - 2021)
 
-- Authored a series of articles covering a wide variety of topics and tools related to technology like PHP, WordPress, Ruby, Linux, Docker, and Privacy.
+**Bachelor’s Degree in Computer Science** EPFL, Lausanne (2015 - 2018)
 
-## Education
+## KEY SKILLS
+✔ Scalable ML Pipelines | ✔ ML Model Deployment & Monitoring | ✔ Data Engineering & ETL Optimization | ✔ Cloud Infrastructure & DevOps | ✔ CI/CD for ML | ✔ SQL & Performance Optimization
 
-### Masters in BS, Example University
-
-- 4.0 GPA
-- Deans List
-- Member of xyz club, etc.
-- I didn't really go to college so I don't know what you would put here.
+## INTERESTS & LANGUAGES
+- Languages: English: native · French: native · German: B2
+- Passionate about cycling, skiing, hiking and adventure sports in general.
