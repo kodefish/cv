@@ -23,13 +23,14 @@ I work at the intersection of **ML Engineering, Data Engineering, and DevOps**, 
 ### Data & ML Platform Engineer
 Apr 2021 - Present, Zürich, Switzerland (On-site)
 
-- Migrated legacy data pipelines to a **modern cloud-based system**, optimizing **ML/data processing for 6M+ records/day** and reducing KPI computation time by **80%**.
-- Deployed ML models as dependencies in a **Django-based SaaS**, serving inference requests over HTTP on Kubernetes.
-- Implemented **MLOps best practices** for **model versioning, monitoring, and scheduled retraining** via **Airflow**.
-- Developed **Kubernetes-native applications** for **batch data processing**, enabling **scalability & auto-healing**.
-- Designed & improved a **linear optimization-based inventory allocation system**, adapting it to **evolving business needs**.
-- **Collaborate closely** with **data scientists, backend engineers, and data engineers** to ensure seamless **ML model deployment & data pipeline efficiency**.
-- **Take on product owner responsibilities**, defining priorities & aligning technical work with business needs.
+- Developed a supply chain optimization service using **ML-based demand forecasting** and **linear optimization** to automate supply chain planning and daily inventory allocation. Reduced **manual planning from 3 days to 1**, distributing **12,000 fresh products daily to 1,000+ points of sale**.
+- Migrated legacy data pipelines to a **modern cloud-based system**, optimizing **ML/data processing for 6M+
+records/day** and reducing KPI computation time by **80%**.
+- Built a **Kubernetes-native, distributed batch processing system**, replacing a monolith with a **scalable, modular
+pipeline** that runs steps independently and scales dynamically.
+- Applied **MLOps best practices** to **enable rapid, iterative model development and smooth deployment**, ensuring **versioning, monitoring, and scheduled retraining** via **Airflow**.
+- **Collaborated closely** with **data scientists, backend engineers, and data engineers** to streamline **ML model deployment & data pipeline efficiency**.
+- **Defined priorities and aligned technical work with business needs**, taking on **product ownership responsibilities**.
 
 **Technologies used**: Python, Airflow, Snowflake, Kubernetes, SQL, Docker, DBT, Azure, MLflow, Linear Programming, pandas, numpy, CI/CD.
 
