@@ -16,7 +16,7 @@ jobs:
         run: |
           mkdir output
           cp resume-stylesheet.css output/resume-stylesheet.css
-          cp resume.md output/${{ github.actor }}-resume.md
+          cp resume.md output/danil-ivanov-resume.md
       # Downloading the binaries directly, because they are newer and work better, than the ones that come with Ubuntu latest.
       - name: "Install pandoc and wkhtmltopdf"
         run: |
@@ -27,10 +27,10 @@ jobs:
 
       - name: "Convert MD to HTML"
         run: |
-          pandoc resume.md -f markdown -t html -c resume-stylesheet.css -s -o output/${{github.actor}}-resume.html
+          pandoc resume.md -f markdown -t html -c resume-stylesheet.css -s -o output/danil-ivanov-resume.html
 
       - name: "Convert HTML to PDF "
-        run: "wkhtmltopdf --enable-local-file-access output/${{github.actor}}-resume.html output/${{github.actor}}-resume.pdf"
+        run: "wkhtmltopdf --enable-local-file-access output/danil-ivanov-resume.html output/danil-ivanov-resume.pdf"
       # run: |
       #     /usr/bin/pandoc -standalone --output=output/resume.pdf --css=resume-stylesheet.css --from=markdown --to=pdf --pdf-engine=/usr/bin/wkhtmltopdf resume.md
       - uses: actions/upload-artifact@master
