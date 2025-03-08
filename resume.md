@@ -56,6 +56,8 @@ Jun 2016 - Sep 2019, Geneva, Switzerland (On-site)
 
 **Technologies used**: Java, Android SDK, Firebase, REST API
 
+<div style="page-break-after: always"></div>
+
 ## EDUCATION
 **Master’s Degree in Computer Science** ETH Zürich (2018 - 2021)
 
