@@ -65,5 +65,5 @@ Jun 2016 - Sep 2019, Geneva, Switzerland (On-site)
 **Bachelor’s Degree in Computer Science** EPFL, Lausanne (2015 - 2018)
 
 ## INTERESTS & LANGUAGES
-- Languages: English: native · French: native · German: B2
+- Languages: English: native · French: native · French: native · German: B2
 - Passionate about cycling, skiing, hiking and adventure sports in general.
