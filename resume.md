@@ -21,7 +21,7 @@ I work at the intersection of **ML Engineering, Data Engineering, and DevOps**, 
 
 ## EXPERIENCE
 ### Data & ML Platform Engineer
-Apr 2021 - Present, Zürich, Switzerland (On-site)
+**Apr 2021 - Present**, FELFEL AG, Zürich, Switzerland (On-site)
 
 - Developed a supply chain optimization service using **ML-based demand forecasting** and **linear optimization** to automate supply chain planning and daily inventory allocation. Reduced **manual planning from 3 days to 1**, distributing **12,000 fresh products daily to 1,000+ points of sale**.
 - Migrated legacy data pipelines to a **modern cloud-based system**, optimizing **ML/data processing for 6M+
@@ -35,7 +35,7 @@ pipeline** that runs steps independently and scales dynamically.
 **Technologies used**: Python, Airflow, Snowflake, Kubernetes, SQL, Docker, DBT, Azure, MLflow, Linear Programming, pandas, numpy, CI/CD.
 
 ### Virtual Reality Software Engineer
-Sep 2020 - Dec 2020, Zürich, Switzerland (On-site)
+**Sep 2020 - Dec 2020**, University of Zürich, Zürich, Switzerland (On-site)
 
 - Built a **real-time VR simulation** to analyze how speech patterns change in different environments.
 - Developed virtual environments (e.g., lecture hall, baby room) and a **control interface** for researchers to select phrases and display them within the simulation.
@@ -43,14 +43,14 @@ Sep 2020 - Dec 2020, Zürich, Switzerland (On-site)
 **Technologies used**: Python, Unity, VR APIs.
 
 ### Student Teaching Assistant
-Sep 2018 - Dec 2020, Zürich, Switzerland (On-site)
+**Sep 2018 - Dec 2020**, ETH Zürich, Zürich, Switzerland (On-site)
 
 - Assisted in teaching **Visual Computing**, mentoring students & grading assignments. Topics included **computer graphics** and an introduction to **computer vision**.
 
 **Technologies used**: Python, OpenGL, NumPy, WebGL.
 
 ### Android Developer
-Jun 2016 - Sep 2019, Geneva, Switzerland (On-site)
+**Jun 2016 - Sep 2019**, Infinight, Geneva, Switzerland (On-site)
 
 - Developed a **nightlife discovery app** that allowed users to find events, follow artists, and book tables.
 - Implemented the **Android application end-to-end**, integrating real-time event notifications and ticketing features.
@@ -60,10 +60,10 @@ Jun 2016 - Sep 2019, Geneva, Switzerland (On-site)
 <div style="page-break-after: always"></div>
 
 ## EDUCATION
-**Master’s Degree in Computer Science** ETH Zürich (2018 - 2021)
+**Master’s Degree in Computer Science** ETH Zürich, Zürich (2018 - 2021)
 
 **Bachelor’s Degree in Computer Science** EPFL, Lausanne (2015 - 2018)
 
 ## INTERESTS & LANGUAGES
-- Languages: English: native · French: native · French: native · German: B2
+- Languages: English: native · French: native · Russian: native · German: B2
 - Passionate about cycling, skiing, hiking and adventure sports in general.
